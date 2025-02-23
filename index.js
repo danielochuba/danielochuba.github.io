@@ -130,7 +130,6 @@ workCards.forEach((item2) => {
 });
 
 // HANDLES MODAL POPUP
-
 sectionLabel.innerHTML += '<div id="popUp" class="popUp hide"></div>';
 
 const seeProject = document.querySelectorAll('.see-project');

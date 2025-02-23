@@ -207,7 +207,6 @@ seeProject.forEach((item) => {
 });
 
 // HANDLES DROP DOWN
-
 const arrows = document.querySelectorAll('.arrow');
 
 const handleArrrowClick = (arrow) => {
